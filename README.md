@@ -3,11 +3,12 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juhp&theme=dark"/>
 </a>
+
+<!--
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhp&layout=compact&theme=dark"/>
 </a>
 
-<!--
 **juhp/juhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
