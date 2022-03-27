@@ -1,4 +1,4 @@
-Hi: I like strongly-typed functional programming.
+Hi, I like strongly-typed functional programming.
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juhp&theme=dark"/>
