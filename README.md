@@ -1,4 +1,4 @@
-Hi, I like functional programming with algebraic data types.
+I like functional programming with algebraic data types.
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juhp&theme=dark"/>
